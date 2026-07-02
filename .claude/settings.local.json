@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ide__executeCode",
+      "Bash(python3 -c ' *)",
+      "Bash(mysql *)",
+      "WebFetch(domain:skills.sh)",
+      "Bash(npx skills *)",
+      "Bash(git config *)",
+      "Bash(git ls-remote *)",
+      "Bash(git clone *)",
+      "Bash(curl *)",
+      "Bash(npm view *)",
+      "Bash(npm run *)",
+      "WebFetch(domain:localhost)",
+      "mcp__ide__getDiagnostics",
+      "Bash(xargs grep *)"
+    ]
+  }
+}
